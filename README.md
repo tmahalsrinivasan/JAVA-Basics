@@ -1,2 +1,2 @@
 # JAVA-Basics :)
-Here i have written which covers basic concepts of the JAVA.
+Here i have written piece of code which covers basic concepts of the JAVA.
